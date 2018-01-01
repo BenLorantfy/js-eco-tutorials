@@ -6,6 +6,8 @@
 ## Monorepos
 - Lerna: https://lernajs.io/
 - Yarn workspaces: https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/
+- Why monorepos? https://medium.com/@maoberlehner/monorepos-in-the-wild-33c6eb246cb9?token=dd8DpcFA5Nr7dZYF
+
 
 ## Issues
 - How to import React in typescript: https://github.com/DefinitelyTyped/DefinitelyTyped/issues/5128#issuecomment-270078424
