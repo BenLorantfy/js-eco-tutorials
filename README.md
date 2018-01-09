@@ -8,6 +8,9 @@
 - Yarn workspaces: https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/
 - Why monorepos? https://medium.com/@maoberlehner/monorepos-in-the-wild-33c6eb246cb9?token=dd8DpcFA5Nr7dZYF
 
+## Unit testing
+- Setup debugging with jest/vscode: https://medium.com/@mattmazzola/how-to-debug-jest-tests-with-vscode-48f003c7cb41
+
 ## Typescript
 - Using TS with react: https://github.com/piotrwitek/react-redux-typescript-guide
 
