@@ -21,3 +21,8 @@
 ## Cool Projects
 - https://github.com/ivogabe/gulp-typescript
 - https://github.com/nkbt/react-collapse
+
+## Good variable names
+- construct<thing>
+- induce<thing>
+- <thing>induced
