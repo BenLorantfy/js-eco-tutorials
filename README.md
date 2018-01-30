@@ -23,6 +23,6 @@
 - https://github.com/nkbt/react-collapse
 
 ## Good variable names
-- construct<thing>
-- induce<thing>
-- <thing>induced
+- constructThing
+- induceThing
+- thingInduced
